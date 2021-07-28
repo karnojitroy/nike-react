@@ -1,0 +1,31 @@
+/* fonst  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* common css */
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family:  'Roboto', sans-serif, 'Bebas Neue', cursive,;
+    background-color: white;
+}
+.section-title{
+    font-family: 'Bebas Neue';
+}
+.hedding-title{
+    font-family:  'Bebas Neue';
+    font-size: 80px;
+}
+.hedding-title span{
+    color: #fa804c;
+}
+.item-bg{
+    background-color:#f1f1f1 ;
+}
+
+
+/* .header-background{
+    background-color: #FFF9F4;
+} */
